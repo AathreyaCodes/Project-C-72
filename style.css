@@ -1,0 +1,19 @@
+body{
+    text-align: center;
+    background-color: cornflowerblue;
+}
+#Home{
+    background-color: gold;
+}
+#IntroPara{
+    background-color: white;
+}
+#Campus{
+    background-color: lightcyan;
+}
+hr{
+    border-radius: 500px;
+    border-style: solid;
+    border-width: 2px;
+    border-color: blue;
+}
